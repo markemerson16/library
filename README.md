@@ -4,7 +4,7 @@
 
 **public register**
 
-method- POST
+* method- POST
 
 end point- /user/register
 
@@ -21,7 +21,7 @@ end point- /user/register
   "password": "332"
 }
 ```
-**Response**
+**Response
 
 ```
 {
