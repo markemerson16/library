@@ -3,8 +3,8 @@
 # API Documentation
 
 
-```
-public register
+
+#public register
 
 method- POST
 
