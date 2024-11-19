@@ -60,7 +60,7 @@
 ```
 
 
-**USER UPATE**
+**USER UPDATE**
 
 * method- PUT
 
